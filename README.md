@@ -1,7 +1,7 @@
 # React_Mission
 3차 미션
 
-  배포완료 https://github.com/hoyeori/react-clone-netflix
+  배포완료 https://hoyeori.github.io/react-clone-netflix/
 
 ![ezgif-4-416f458fcd](https://user-images.githubusercontent.com/74793591/159496201-27b08cc3-18e6-4409-ae43-408d9c62e292.gif)
 ![bandicam-2022-03-22-22-41-05-605](https://user-images.githubusercontent.com/74793591/159495685-8d0c5a71-0fb5-4783-92cb-5856d1256ee3.gif)
